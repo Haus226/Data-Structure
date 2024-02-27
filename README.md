@@ -6,4 +6,5 @@ Some data structures implemented in C++
 - Segment Tree
 - Binary Heap
 - Pairing Heap
+  
 Reference: [https://oi-wiki.org/ds/](https://oi-wiki.org/ds/)
